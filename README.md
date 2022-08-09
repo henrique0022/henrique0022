@@ -1,0 +1,4 @@
+- 👋 ola meu nome e @henrique0022
+- :+1meu email e lhluizhenrique689671@gmail.com
+- 👀 eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente do javascrit e scrratch
